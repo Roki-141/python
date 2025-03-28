@@ -1,1 +1,2 @@
-print("Emma Watson")
+friend = 15 
+print(friend)
